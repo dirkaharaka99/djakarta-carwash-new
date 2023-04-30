@@ -1,0 +1,25 @@
+Enabling site djakartacarwash. To activate the new configuration, you need to run: systemctl reload apache2 7d13d8cfcc28d733feafc753660353ba05d5f5e3f498e32acfa989bf4beb0289
+Welcome djakartacarwash
+Alamat website anda : https://djakartacarwash.xcodehoster.com
+Login : https://djakartacarwash.xcodehoster.com/login.php
+Username : admin
+Password : djakartacarwash
+Cara ganti password edit pada bagian config.php, cari password anda dan ganti dengan password yang baru
+
+Login phpmyadmin
+Login : https://djakartacarwash.xcodehoster.com/phpmyadmin
+Username : djakartacarwash
+Password : djakartacarwash
+
+Jika file config.php atau login.php terhapus
+Login : https://djakartacarwash.xcodehoster.com/recovery/login.php
+Username : admin
+Password : djakartacarwash
+
+Jika ingin akses VPS
+Login : http://vps.xcodetraining.com:6099
+Username : djakartacarwash
+Password : djakartacarwash
+
+Saat ini subdomain anda sudah aktif
+File login.php dan config.php tidak boleh dihapus. Jika lupa password, login tidak jalan, ingin pakai domain sendiri dan sebagainya maka klik https://chat.whatsapp.com/BG51V2lD6442ZTCQ6r36MX lalu baca deskripsi group dan tulis nama subdomainnya di group.
