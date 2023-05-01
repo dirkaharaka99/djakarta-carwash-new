@@ -26,7 +26,7 @@ const main = () => {
           <div className="xl:text-right">
             <img
               className="inline rounded-2xl drop-shadow-2xl"
-              src="/images/man-god.png"
+              src="/images/mobil.png"
               alt="alternative"
             />
           </div>
