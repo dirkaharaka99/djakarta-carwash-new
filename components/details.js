@@ -33,7 +33,7 @@ const details = () => {
       <section className="py-24">
         <div className="container px-4 sm:px-8 lg:grid lg:grid-cols-12 lg:gap-x-12">
           <div className="lg:col-span-7 ">
-            <div className="mb-12 lg:mb-0 xl:mr-14  ">
+            <div className="mb-12 lg:mb-0  mt-24 xl:mr-14  ">
               <img
                 className="inline rounded-2xl  drop-shadow-2xl ;"
                 src="images/lokasi_full.png"
